@@ -26,3 +26,9 @@ footer {
     background-color: #1A1A24;
     color: #F7FAFC;
 }
+
+.profile-image {
+    width: 400px;
+    height: 400px;
+    object-fit: contain;
+}
